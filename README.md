@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sakthivel2002
-- 👀 I’m interested in learning new skills and reading.
-- 🌱 I’m currently pursuing bachelor's degree in Computer Science (2020-24)
-- 💞️ I'm a prospective software developer.
+- 👀 I’m interested in Artificial Intelligence and Full Stack Development.
+- 🌱 I’m currently working as a Junior Software Developer.
 - 📫 Reach out me via g-mail: sakthirollins175@gmail.com  Linked-in: https://www.linkedin.com/in/sakthivel-p-24424b232 
 
 <!---
